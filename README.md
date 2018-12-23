@@ -1,0 +1,2 @@
+# UDpipe-Co-occurrence-Creator
+This Shiny app is for creating a co-occurrence plot for input text in different languages and by different parts of speech. The co-occurrence plot will give you an idea of what words or terms exist in the document and what words follow another word. As a user, you can upload text in different languages with the respective udpipe model file and see different co-occurrence plots. The app uses the UDpipe R packaget to create the co-occurrence plot and other entities.
